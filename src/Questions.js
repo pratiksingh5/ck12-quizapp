@@ -1,4 +1,4 @@
-export default [
+const questions=  [
     {
       questionText: 'CSS stands for?',
       answerOptions: [
@@ -36,4 +36,6 @@ export default [
       ],
     },
     ];
+
+    export default questions
     
